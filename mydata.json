@@ -1,0 +1,58 @@
+{
+    "school": [
+        {
+            "degree": "Middle School",
+            "name": "Daffodil Public School",
+            "year": 2010,
+            "major": [
+                "Not Applicable"
+            ],
+            "course": [
+                "Math",
+                "English",
+                "Computer"
+            ]
+        },
+        {
+            "degree": "High School",
+            "name": "Xavier International",
+            "year": 2012,
+            "major": [
+                "Mathematics",
+                "Accounting"
+            ],
+            "course": [
+                "Pre Calculas",
+                "Physics",
+                "Chemistry"
+            ]
+        },
+        {
+            "degree": "Bachelor Degree",
+            "name": "Bay State College",
+            "year": 2017,
+            "major": [
+                "Business",
+                "Finance"
+            ],
+            "course": [
+                "Calculas",
+                "Economics",
+                "Biology"
+            ]
+        },
+        {
+            "degree": "Master Degree",
+            "name": "Boston University",
+            "year": 2023,
+            "major": [
+                "MS CIS"
+            ],
+            "course": [
+                "Web Development",
+                "Into to Python",
+                "DB Design"
+            ]
+        }
+    ]
+}

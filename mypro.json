@@ -1,0 +1,19 @@
+{
+    "prof": [
+        {
+            "position": "Banker",
+            "company": "Citizen Bank",
+            "year": 2018
+        },
+        {
+            "position": "Associate",
+            "company": "Accenture",
+            "year": 2020
+        },
+        {
+            "position": "Senior Banker",
+            "company": "KPMG",
+            "year": "Current Employee"
+        }
+    ]
+}
